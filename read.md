@@ -5,3 +5,6 @@ The Two main reason for it are
 2) In addition, the code would not be optimized for production (e.g. not minified)
 
 Node JS is not just used to install packages for react, or create project, but are used by tools that build process to run it behind the scenes.
+ 
+#Import Export 
+Only one default export per file
