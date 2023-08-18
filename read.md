@@ -14,3 +14,7 @@ They are different types of Values and they are :
 
 Variables stores values and two reasons to use variables are 1) Reusability and 2) Readibility (Organize your code over several lines)
 
+Some of the important JS operators are: 
++ - / *
+=== cheching for equality and leads a boolean value
+<= >= ( Mostly used for if conditions)

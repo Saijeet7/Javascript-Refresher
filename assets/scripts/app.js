@@ -8,3 +8,5 @@
 let userMessage = "Hello World";
 console.log("Hello World");
 console.log(userMessage);
+
+console.log("hello" + "world");
