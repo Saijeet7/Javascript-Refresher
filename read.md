@@ -8,3 +8,9 @@ Node JS is not just used to install packages for react, or create project, but a
  
 #Import Export 
 Only one default export per file
+
+They are different types of Values and they are :
+1) String, 2) Number, 3) Boolean 4)Null & undefined 5) Additional Objects
+
+Variables stores values and two reasons to use variables are 1) Reusability and 2) Readibility (Organize your code over several lines)
+
