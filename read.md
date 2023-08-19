@@ -18,3 +18,5 @@ Some of the important JS operators are:
 + - / *
 === cheching for equality and leads a boolean value
 <= >= ( Mostly used for if conditions)
+
+Functions are not be executed immediately but at some time in future and can be called as many times as needed
