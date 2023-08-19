@@ -24,3 +24,5 @@ Functions are not be executed immediately but at some time in future and can be 
 The idea of an array is to create a list of values together (Group values together), Arrays can contain any kinds of values such as they can contain other arrays, objects, numbers, strings whatever you want.
 
 Map  allows to transform every item in an array to another item
+
+In variable you dont store the value but instead store the address of the data in memory for objects. Thats why you can edit object event thought it is declared in const. Const does not mean the value cannot be edited but the value cannot be overwritten. So you cant give = to add value in const but can push value such as hobbies.push("Working") to add value in objects. 

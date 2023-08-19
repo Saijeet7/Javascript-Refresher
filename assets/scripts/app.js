@@ -69,3 +69,29 @@ const index = hobbies.findIndex((item) => item === "Sports");
 console.log(index);
 
 const edittedHobbies = hobbies.map((item) => ({ text: item }));
+
+const [firstName, lastName] = ["Max", "Schwarzmuller"];
+
+const { name: userName, age } = {
+  name: "Max",
+  age: 34,
+};
+
+console.log(userName);
+
+const newHobbies = ["Reading"];
+const mergedHobbies = [...hobbies, ...newHobbies];
+
+for (const hobby of hobbies) {
+  console.log(hobby);
+}
+
+function handleTimeout() {
+  console.log("Timed out!");
+}
+
+const handleTimeout2 = () => {
+  console.log("Time out ... again!");
+};
+
+setTimeout(handleTimeout, 2000);
